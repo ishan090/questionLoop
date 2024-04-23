@@ -1,0 +1,4 @@
+{
+"simple": "Como se dice \"{}\" en \"{}\"",
+"vars": ["#Month;#Translation;#Number", "0;1;Num"]
+}

@@ -1,0 +1,15 @@
+Spanish,English,Type
+ques,ans,none
+enero,January,s
+febrero,February,s
+marzo,March,s
+abril,April,s
+mayo,May,s
+junio,June,s
+julio,July,s
+agosto,August,s
+septiembre,September,s
+octubre,October,s
+noviembre,November,s
+diciembre,December,s
+¿Cuando es tu compleños?,Mi compleaños es el <#Number de <#Month,c
